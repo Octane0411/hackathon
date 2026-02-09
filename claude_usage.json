@@ -1,0 +1,15 @@
+{
+    "five_hour": {
+        "utilization": 8.0,
+        "resets_at": "2026-02-08T21:59:59.942734+00:00"
+    },
+    "seven_day": {
+        "utilization": 19.0,
+        "resets_at": "2026-02-09T11:59:59.942754+00:00"
+    },
+    "seven_day_opus": null,
+    "seven_day_sonnet": null,
+    "seven_day_cowork": null,
+    "iguana_necktie": null,
+    "extra_usage": null
+}
